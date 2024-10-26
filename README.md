@@ -54,14 +54,20 @@ virtualVr
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/virtual-vr-landing-page.git
+   
 2.Navigate to the project folder:
+   ```bash
    cd virtual-vr-landing-page
+
 3.Install Dependencies
+   ```bash
     npm install
+
 4.Run the project:
+   ```bash
     npm run dev
 
-Open your browser and go to http://localhost:3000 to view the landing page.
+Open your browser and go to http://localhost:5173 to view the landing page.
 
 ## Components Overview
 **Navbar**: Contains links to different sections of the page.
