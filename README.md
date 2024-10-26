@@ -5,6 +5,8 @@ The landing page showcases various sections such as features, pricing, testimoni
 and highlight the benefits of a virtual reality platform.
 
 ## Project Structure
+
+```
 virtualVr
 ├── dist/                           # Compiled output
 ├── node_modules/                  # Installed dependencies
@@ -32,6 +34,7 @@ virtualVr
 ├── README.md                       # Project README
 ├── tailwind.config.js              # Tailwind CSS configuration
 └── vite.config.js                  # Vite configuration
+```
 
 ## Features
 
