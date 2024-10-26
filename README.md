@@ -1,4 +1,4 @@
-# Virtual Reality Landing Page
+## Virtual Reality Landing Page
 
 This is a fully responsive Virtual Reality landing page built with React and Tailwind CSS. 
 The landing page showcases various sections such as features, pricing, testimonials, and workflow to introduce 
@@ -55,21 +55,22 @@ virtualVr
    ```bash
    git clone https://github.com/Ni1esh-Yadav/virtual-lr.git
    
-2.Navigate to the project folder:
+2. Navigate to the project folder:
    ```bash
    cd virtual-lr
 
-3.Install Dependencies
+3. Install Dependencies
    ```bash
     npm install
 
-4.Run the project:
+4. Run the project:
    ```bash
     npm run dev
 
 Open your browser and go to http://localhost:5173 to view the landing page.
 
-## Components Overview
+##  Components Overview
+
 **Navbar**: Contains links to different sections of the page.
 **HeroSection**: A visually engaging hero section with an introduction to the platform.
 **FeatureSection**: Highlights the features of the virtual reality experience.
@@ -82,7 +83,7 @@ Open your browser and go to http://localhost:5173 to view the landing page.
 Tailwind CSS
 The Tailwind configuration is set in tailwind.config.js. You can customize colors, spacing, and other utility classes here.
 
-ESLint
+## ESLint
 Linting configuration can be found in eslint.config.js. Make sure to follow the coding standards outlined in this configuration for consistent and error-free code.
 
-## Live website Link : https://virtuall.netlify.app/
+## Live Website link: https://virtuall.netlify.app/
