@@ -53,11 +53,11 @@ virtualVr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/virtual-vr-landing-page.git
+   git clone https://github.com/Ni1esh-Yadav/virtual-lr.git
    
 2.Navigate to the project folder:
    ```bash
-   cd virtual-vr-landing-page
+   cd virtual-lr
 
 3.Install Dependencies
    ```bash
